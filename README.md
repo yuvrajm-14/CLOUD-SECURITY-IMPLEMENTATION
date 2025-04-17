@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/47b8f315-5774-418c-957d-c5158d73dedb)![image](https://github.com/user-attachments/assets/5361e89b-c683-447a-9da9-1270638484fe)![image](https://github.com/user-attachments/assets/83ad29b6-3f4e-4c02-ae3b-c4d1cfbad005)# CLOUD-SECURITY-IMPLEMENTATION
+# CLOUD-SECURITY-IMPLEMENTATION
 
 **COMPANY**: CODTECH IT SOLUTIONS
 
